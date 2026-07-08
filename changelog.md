@@ -1,3 +1,6 @@
+### v1.2 - 7.8.2026
+* Minor fix
+
 ### v1.1 - 9.21.2024
 * Update to MMT-Extended v3.7
 * Support KernelSU/Apatch? (Not tested)
